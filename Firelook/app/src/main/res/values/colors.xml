@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="Aqua">#00FFFF</color>
+    <color name="Maroon">#800000</color>
+    <color name="Orange">#FF5733</color>
+    <color name="Lime">#00FF00</color>
+    <color name="Lemon">#FFF44F</color>
+</resources>
