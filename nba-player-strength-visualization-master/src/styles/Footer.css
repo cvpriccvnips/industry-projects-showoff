@@ -1,0 +1,52 @@
+@media only screen and (max-width: 768px) {
+    footer {
+        width: 100%;
+        margin: 0;
+        background: #1D428A;
+        color: #FFFFFF;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 300;
+        font-size: 0.8em;
+        height: 130px;
+        position: relative;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    footer {
+        width: 100%;
+        margin: 0;
+        background: #1D428A;
+        color: #FFFFFF;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 300;
+        font-size: 0.9em;
+        height: 105px;
+        position: relative;
+    }
+}
+
+footer p {
+    text-align: center;
+}
+
+footer p.no-margin {
+    margin-bottom: 0;
+}
+
+footer p.title {
+    font-size: 1.2em;
+    padding: 15px;
+}
+
+footer ul {
+    align-items: center;
+    display: flex;
+    padding: 15px;
+    list-style: none;
+    margin: 0;
+}
+
+footer ul li {
+    flex: 1;
+}
